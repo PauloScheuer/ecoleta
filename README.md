@@ -34,6 +34,6 @@
 
 - Utilize a versão Web. Lá, é possível cadastrar um ponto de coleta informando nome da entidade, email de contato, whatsapp, endereço e itens coletáveis. Esses dados serão cadastrados pela API e o ponto de coleta estará visível aos interessados em utilizá-los.
 
-### Quero depositar itens em um ponto de coleta
+### Quero depositar itens em um ponto de coleta:
 
 - Utilize a versão mobile. Lá, ao informar sua localização, serão informados os pontos disponíveis próximos a você com base nos itens que forem selecionados para o filtro. Ao clicar em um ponto, uma página com as informações e o contato desse ponto será aberta
